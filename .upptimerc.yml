@@ -37,6 +37,10 @@ sites:
     url: https://otimizacaoseo.com.br/
   - name: Pixeel
     url: https://pixeel.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 500
   - name: Pixel Project
     url: https://pixelproject.com.br/
   - name: Ponta Negra News
