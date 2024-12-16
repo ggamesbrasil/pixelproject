@@ -155,7 +155,7 @@ i18n:
 #   statusChange: "$EMOJI $SITE_NAME está $STATUS ($RESPONSE_CODE em $RESPONSE_TIME ms) [skip ci] [upptime]"
 #   graphsUpdate: ":bento: Atualizar gráficos [skip ci] [upptime]"
 
-runner: "[self-hosted, linux, x64]"
+runner: "[self-hosted, linux, x64, netcup]"
 
 user-agent: louanfontenele
 
