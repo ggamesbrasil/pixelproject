@@ -1,36 +1,169 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ggamesbrasil # Your GitHub organization or username, where this repository lives
+repo: pixelproject # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Acronsoft
+    url: https://acronsoft.com.br/
+  - name: Autos24h
+    url: https://autos24h.com.br/
+  - name: COB EXPO
+    url: https://cobexpo.com.br/
+  - name: Despacho Rápido
+    url: https://despachorapido.com.br/
+  - name: Farma Piedade
+    url: https://farmapiedade.com.br/
+  - name: Flávia Carvalho Pinto
+    url: https://flaviacarvalhopinto.com.br/
+  - name: Geek
+    url: https://geek.etc.br/
+  - name: GGames
+    url: https://ggames.com.br/
+  - name: GGames T
+    url: https://t.ggames.com.br/
+  - name: GGBr
+    url: https://ggbr.me/
+  - name: Grazing Table
+    url: https://grazingtable.com.br/
+  - name: HigiQualy
+    url: https://higiqualy.com.br/
+  - name: La Plus Consultoria
+    url: https://laplusconsultoria.com.br/
+  - name: Blog Marcos Lopes
+    url: https://blogmarcoslopes.com/
+  - name: Mercado
+    url: http://mercado.etc.br/
+  - name: Otimização SEO
+    url: https://otimizacaoseo.com.br/
+  - name: Pixeel
+    url: https://pixeel.net
+  - name: Pixel Project
+    url: https://pixelproject.com.br/
+  - name: Ponta Negra News
+    url: https://pontanegranews.com.br/
+  - name: Thunder Cheats
+    url: https://thundercheats.com.br/
+  - name: Todeschini Sorocaba
+    url: https://todeschinisorocaba.com.br/
+  - name: Valor do Site
+    url: https://valordosite.com.br/
+  - name: Vários Link
+    url: https://varios.link/
+  - name: Vila Rica
+    url: https://vilaricacapital.com.br/
+  - name: Whats Fácil
+    url: https://whatsfacil.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /pixelproject
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Pixel Project Status
+  introTitle: "**Pixel Project Status**"
+  introMessage: Status de todos os sites da Pixel Project
   navbar:
     - title: Status
-      href: /
+      href: /pixelproject
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+# Translation PT-BR
+i18n:
+  activeIncidents: Incidentes Ativos
+  incidentReport: "Relatório do Incidente #$NUMBER →"
+  activeIncidentSummary: Aberto em $DATE com $POSTS postagens
+  incidentTitle: Detalhes do Incidente $NUMBER
+  incidentDetails: Detalhes do Incidente
+  incidentFixed: Corrigido
+  incidentOngoing: Em andamento
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentViewOnGitHub: Ver e inscrever-se no GitHub
+  incidentCommentSummary: Postado em $DATE por $AUTHOR
+  incidentBack: ← Voltar para todos os incidentes
+  pastIncidents: Incidentes Anteriores
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS postagens
+  liveStatus: Status ao Vivo
+  overallUptime: "Tempo de atividade geral: $UPTIME"
+  overallUptimeTitle: Tempo de atividade geral
+  averageResponseTime: "Tempo médio de resposta: $TIMEms"
+  averageResponseTimeTitle: Resposta média
+  sevelDayResponseTime: Tempo de resposta de 7 dias
+  responseTimeMs: Tempo de resposta (ms)
+  up: "🟩 Operacional"
+  down: "🟥 Inativo"
+  degraded: "🟨 Degradado"
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  # footer: Esta página é [código aberto]($REPO), alimentada por [Upptime](https://upptime.js.org)
+  footer: Status Pixel Project
+  rateLimitExceededTitle: Limite de requisições excedido
+  rateLimitExceededIntro: Você excedeu o número de requisições permitidas por hora, então precisará aguardar antes de acessar este site novamente. Alternativamente, você pode adicionar um Token de Acesso Pessoal do GitHub para continuar usando este site.
+  rateLimitExceededWhatDoesErrorMean: O que este erro significa?
+  rateLimitExceededErrorMeaning: Este site usa a API do GitHub para acessar dados em tempo real sobre o status de nossos sites. Por padrão, o GitHub permite 60 requisições por hora para cada endereço IP, e você consumiu todas.
+  rateLimitExceededErrorHowCanFix: Como posso corrigir isso?
+  rateLimitExceededErrorFix: Você pode aguardar uma hora para que o limite do seu endereço IP seja restaurado. Alternativamente, você pode adicionar seu Token de Acesso Pessoal do GitHub, o que lhe dá 5.000 requisições adicionais por hora.
+  rateLimitExceededGeneratePAT: Saiba como gerar um Token de Acesso Pessoal
+  rateLimitExceededHasSet: Você tem um token de acesso pessoal configurado.
+  rateLimitExceededRemoveToken: Remover token
+  rateLimitExceededGitHubPAT: Token de Acesso Pessoal do GitHub
+  rateLimitExceededCopyPastePAT: Copie e cole seu token
+  rateLimitExceededSaveToken: Salvar token
+  errorTitle: Ocorreu um erro
+  errorIntro: Ocorreu um erro ao tentar obter os detalhes mais recentes do status.
+  errorText: Você pode tentar novamente em alguns momentos.
+  errorHome: Ir para a página inicial
+  pastScheduledMaintenance: Manutenção Programada Anterior
+  scheduledMaintenance: Manutenção Programada
+  scheduledMaintenanceSummaryStarted: Iniciada em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Começa em $DATE por $DURATION minutos
+  startedAt: Iniciado em
+  startsAt: Começa em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Concluído
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1 ano
+  durationAll: tudo
+  responseTimeGraphAlt: "Gráfico de tempo de resposta"
+  responseTime: "Tempo de resposta"
+  responseTimeDay: "Tempo de resposta de 24 horas"
+  responseTimeWeek: "Tempo de resposta de 7 dias"
+  responseTimeMonth: "Tempo de resposta de 30 dias"
+  responseTimeYear: "Tempo de resposta de 1 ano"
+  uptime: "Tempo de atividade total"
+  uptimeDay: "Tempo de atividade de 24 horas"
+  uptimeWeek: "Tempo de atividade de 7 dias"
+  uptimeMonth: "Tempo de atividade de 30 dias"
+  uptimeYear: "Tempo de atividade de 1 ano"
+  liveStatusHtmlComment: "<!--status ao vivo-->"
+  allSystemsOperational: "🟩 Todos os sistemas operacionais"
+  degradedPerformance: "🟨 Desempenho degradado"
+  completeOutage: "🟥 Interrupção total"
+  partialOutage: "🟧 Interrupção parcial"
+# commitMessages:
+#   readmeContent: ":pencil: Atualizar resumo no README [skip ci] [upptime]"
+#   summaryJson: ":card_file_box: Atualizar resumo de status [skip ci] [upptime]"
+#   statusChange: "$EMOJI $SITE_NAME está $STATUS ($RESPONSE_CODE em $RESPONSE_TIME ms) [skip ci] [upptime]"
+#   graphsUpdate: ":bento: Atualizar gráficos [skip ci] [upptime]"
+
+runner: "[self-hosted, linux, x64]"
+
+user-agent: louanfontenele
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "* * * * *"
