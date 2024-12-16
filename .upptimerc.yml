@@ -98,9 +98,9 @@ i18n:
   averageResponseTimeTitle: Resposta média
   sevelDayResponseTime: Tempo de resposta de 7 dias
   responseTimeMs: Tempo de resposta (ms)
-  up: "🟩 Operacional"
-  down: "🟥 Inativo"
-  degraded: "🟨 Degradado"
+  up: "Operacional"
+  down: "Inativo"
+  degraded: "Degradado"
   ms: ms
   loading: Carregando
   navGitHub: GitHub
