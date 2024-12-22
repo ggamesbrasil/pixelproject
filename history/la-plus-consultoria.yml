@@ -1,7 +1,7 @@
 url: https://laplusconsultoria.com.br/
-status: up
-code: 200
-responseTime: 1325
-lastUpdated: 2024-12-22T18:00:24.708Z
+status: down
+code: 500
+responseTime: 900
+lastUpdated: 2024-12-22T20:52:40.533Z
 startTime: 2024-12-16T15:11:17.526Z
 generator: Upptime <https://github.com/upptime/upptime>
