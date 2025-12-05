@@ -1,7 +1,7 @@
 url: http://mercado.etc.br/
-status: up
-code: 200
-responseTime: 1409
-lastUpdated: 2025-12-05T23:22:22.129Z
+status: down
+code: 415
+responseTime: 445
+lastUpdated: 2025-12-05T23:45:37.289Z
 startTime: 2024-12-16T15:11:20.285Z
 generator: Upptime <https://github.com/upptime/upptime>
