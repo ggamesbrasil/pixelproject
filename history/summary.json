@@ -782,10 +782,10 @@
     "url": "https://grazingtable.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/grazingtable.com.br.ico",
     "slug": "grazing-table",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "95.33%",
+    "uptimeDay": "93.65%",
+    "uptimeWeek": "95.32%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.68%",
     "time": 1363,
@@ -794,7 +794,7 @@
     "timeMonth": 1514,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2025-12-06": 59,
+      "2025-12-06": 60,
       "2025-12-05": 68,
       "2025-12-04": 96,
       "2025-12-03": 82,
@@ -844,8 +844,7 @@
       "2025-09-25": 7,
       "2025-09-24": 14,
       "2025-09-23": 9,
-      "2025-09-21": 15,
-      "2025-09-18": 15
+      "2025-09-21": 15
     }
   },
   {
@@ -1463,19 +1462,19 @@
     "url": "https://pontanegranews.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/pontanegranews.com.br.ico",
     "slug": "ponta-negra-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "95.00%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "94.99%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "99.69%",
-    "time": 1593,
-    "timeDay": 578,
-    "timeWeek": 726,
-    "timeMonth": 839,
-    "timeYear": 1593,
+    "time": 1591,
+    "timeDay": 558,
+    "timeWeek": 719,
+    "timeMonth": 835,
+    "timeYear": 1591,
     "dailyMinutesDown": {
-      "2025-12-06": 59,
+      "2025-12-06": 60,
       "2025-12-05": 69,
       "2025-12-04": 96,
       "2025-12-03": 83,
@@ -1529,8 +1528,7 @@
       "2025-09-15": 22,
       "2025-09-13": 22,
       "2025-09-12": 18,
-      "2025-09-10": 7,
-      "2025-09-09": 7
+      "2025-09-10": 7
     }
   },
   {
