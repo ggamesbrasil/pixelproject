@@ -564,11 +564,11 @@
     "url": "https://grazingtable.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/grazingtable.com.br.ico",
     "slug": "grazing-table",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "96.28%",
     "uptimeYear": "99.64%",
     "time": 1361,
     "timeDay": 1461,
@@ -576,7 +576,7 @@
     "timeMonth": 1382,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2026-01-13": 23,
+      "2026-01-13": 25,
       "2026-01-11": 108,
       "2026-01-10": 133,
       "2026-01-09": 18,
@@ -607,7 +607,7 @@
       "2025-12-11": 20,
       "2025-12-10": 110,
       "2025-12-09": 44,
-      "2025-12-07": 38
+      "2025-12-07": 28
     }
   },
   {
@@ -679,7 +679,7 @@
     "uptime": "92.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.27%",
+    "uptimeMonth": "1.23%",
     "uptimeYear": "91.70%",
     "time": 3126,
     "timeDay": 20398,
@@ -687,7 +687,7 @@
     "timeMonth": 19054,
     "timeYear": 3318,
     "dailyMinutesDown": {
-      "2026-01-13": 464,
+      "2026-01-13": 481,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -1041,19 +1041,19 @@
     "url": "https://pontanegranews.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/pontanegranews.com.br.ico",
     "slug": "ponta-negra-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "95.24%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "95.26%",
     "uptimeYear": "99.60%",
-    "time": 1244,
-    "timeDay": 548,
-    "timeWeek": 511,
-    "timeMonth": 529,
-    "timeYear": 1216,
+    "time": 1243,
+    "timeDay": 483,
+    "timeWeek": 507,
+    "timeMonth": 528,
+    "timeYear": 1215,
     "dailyMinutesDown": {
-      "2026-01-13": 23,
+      "2026-01-13": 24,
       "2026-01-11": 109,
       "2026-01-10": 166,
       "2026-01-09": 43,
@@ -1081,7 +1081,7 @@
       "2025-12-17": 22,
       "2025-12-16": 50,
       "2025-12-15": 24,
-      "2025-12-14": 45
+      "2025-12-14": 37
     }
   },
   {
