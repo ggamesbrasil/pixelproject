@@ -577,9 +577,9 @@
     "url": "https://grazingtable.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/grazingtable.com.br.ico",
     "slug": "grazing-table",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "98.85%",
     "uptimeWeek": "97.39%",
     "uptimeMonth": "96.32%",
     "uptimeYear": "99.65%",
@@ -589,7 +589,7 @@
     "timeMonth": 1397,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2026-01-18": 7,
+      "2026-01-18": 8,
       "2026-01-17": 29,
       "2026-01-16": 33,
       "2026-01-15": 47,
@@ -619,8 +619,7 @@
       "2025-12-16": 66,
       "2025-12-15": 24,
       "2025-12-14": 61,
-      "2025-12-13": 50,
-      "2025-12-12": 8
+      "2025-12-13": 50
     }
   },
   {
@@ -690,10 +689,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/laplusconsultoria.com.br.ico",
     "slug": "la-plus-consultoria",
     "status": "up",
-    "uptime": "92.13%",
+    "uptime": "92.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.40%",
-    "uptimeMonth": "15.21%",
+    "uptimeWeek": "75.60%",
+    "uptimeMonth": "15.49%",
     "uptimeYear": "91.62%",
     "time": 3173,
     "timeDay": 6602,
@@ -1061,19 +1060,19 @@
     "url": "https://pontanegranews.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/pontanegranews.com.br.ico",
     "slug": "ponta-negra-news",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "97.23%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "97.22%",
     "uptimeMonth": "95.10%",
     "uptimeYear": "99.59%",
-    "time": 1226,
-    "timeDay": 614,
-    "timeWeek": 644,
-    "timeMonth": 540,
-    "timeYear": 1192,
+    "time": 1225,
+    "timeDay": 559,
+    "timeWeek": 643,
+    "timeMonth": 539,
+    "timeYear": 1191,
     "dailyMinutesDown": {
-      "2026-01-18": 7,
+      "2026-01-18": 9,
       "2026-01-17": 29,
       "2026-01-16": 49,
       "2026-01-15": 47,
@@ -1101,7 +1100,7 @@
       "2025-12-21": 80,
       "2025-12-20": 16,
       "2025-12-19": 18,
-      "2025-12-18": 17
+      "2025-12-18": 8
     }
   },
   {
