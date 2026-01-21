@@ -591,10 +591,10 @@
     "url": "https://grazingtable.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/grazingtable.com.br.ico",
     "slug": "grazing-table",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "97.19%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "97.18%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.63%",
     "time": 1360,
@@ -603,7 +603,7 @@
     "timeMonth": 1399,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2026-01-21": 28,
+      "2026-01-21": 29,
       "2026-01-20": 7,
       "2026-01-19": 124,
       "2026-01-18": 14,
@@ -635,7 +635,7 @@
       "2025-12-18": 45,
       "2025-12-16": 66,
       "2025-12-15": 24,
-      "2025-12-14": 35
+      "2025-12-14": 28
     }
   },
   {
@@ -707,10 +707,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/laplusconsultoria.com.br.ico",
     "slug": "la-plus-consultoria",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "23.82%",
+    "uptimeMonth": "24.37%",
     "uptimeYear": "91.62%",
     "time": 3188,
     "timeDay": 6996,
@@ -1087,19 +1087,19 @@
     "url": "https://pontanegranews.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/pontanegranews.com.br.ico",
     "slug": "ponta-negra-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "97.03%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "97.01%",
     "uptimeMonth": "94.94%",
-    "uptimeYear": "99.57%",
-    "time": 1214,
-    "timeDay": 572,
-    "timeWeek": 726,
+    "uptimeYear": "99.58%",
+    "time": 1213,
+    "timeDay": 562,
+    "timeWeek": 721,
     "timeMonth": 546,
-    "timeYear": 1177,
+    "timeYear": 1176,
     "dailyMinutesDown": {
-      "2026-01-21": 28,
+      "2026-01-21": 30,
       "2026-01-20": 7,
       "2026-01-19": 124,
       "2026-01-18": 14,
@@ -1127,7 +1127,7 @@
       "2025-12-24": 41,
       "2025-12-23": 20,
       "2025-12-22": 26,
-      "2025-12-21": 43
+      "2025-12-21": 32
     }
   },
   {
