@@ -702,7 +702,7 @@
     "uptime": "92.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "30.88%",
+    "uptimeMonth": "31.39%",
     "uptimeYear": "91.62%",
     "time": 3203,
     "timeDay": 5057,
@@ -953,19 +953,19 @@
     "url": "https://pixeel.net",
     "icon": "https://icons.duckduckgo.com/ip3/pixeel.net.ico",
     "slug": "pixeel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "90.87%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.01%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.00%",
     "uptimeYear": "99.52%",
     "time": 706,
     "timeDay": 725,
-    "timeWeek": 666,
+    "timeWeek": 668,
     "timeMonth": 686,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2026-01-23": 119,
+      "2026-01-23": 121,
       "2026-01-22": 12,
       "2026-01-21": 98,
       "2026-01-19": 26,
@@ -1006,7 +1006,7 @@
       "2025-12-08": 35,
       "2025-12-07": 58,
       "2025-12-06": 80,
-      "2025-12-05": 16
+      "2025-12-05": 8
     }
   },
   {
