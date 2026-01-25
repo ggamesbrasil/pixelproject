@@ -1,7 +1,7 @@
 url: https://geek.etc.br/
-status: up
-code: 200
-responseTime: 1381
-lastUpdated: 2026-01-25T19:42:24.853Z
+status: down
+code: 415
+responseTime: 1027
+lastUpdated: 2026-01-25T19:57:19.381Z
 startTime: 2024-12-16T15:10:56.984Z
 generator: Upptime <https://github.com/upptime/upptime>
