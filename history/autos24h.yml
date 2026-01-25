@@ -1,7 +1,7 @@
 url: https://autos24h.com.br/
-status: up
-code: 200
-responseTime: 1782
-lastUpdated: 2026-01-25T20:22:21.178Z
+status: down
+code: 415
+responseTime: 1020
+lastUpdated: 2026-01-25T20:41:24.640Z
 startTime: 2024-12-16T15:10:46.529Z
 generator: Upptime <https://github.com/upptime/upptime>
