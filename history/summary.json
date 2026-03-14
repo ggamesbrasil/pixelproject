@@ -4,11 +4,11 @@
     "url": "https://acronsoft.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/acronsoft.com.br.ico",
     "slug": "acronsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "86.67%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "86.66%",
     "uptimeYear": "98.64%",
     "time": 2126,
     "timeDay": 6135,
@@ -16,7 +16,7 @@
     "timeMonth": 2403,
     "timeYear": 1982,
     "dailyMinutesDown": {
-      "2026-03-14": 54,
+      "2026-03-14": 55,
       "2026-03-13": 17,
       "2026-03-12": 97,
       "2026-03-10": 181,
@@ -55,8 +55,7 @@
       "2026-01-25": 289,
       "2026-01-24": 138,
       "2026-01-23": 118,
-      "2026-01-22": 12,
-      "2026-01-21": 4
+      "2026-01-22": 12
     }
   },
   {
@@ -947,14 +946,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "85.84%",
+    "uptimeYear": "85.83%",
     "time": 703,
     "timeDay": 712,
     "timeWeek": 704,
     "timeMonth": 653,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2026-03-14": 980,
+      "2026-03-14": 1015,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
