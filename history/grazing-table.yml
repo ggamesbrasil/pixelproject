@@ -1,7 +1,7 @@
 url: https://grazingtable.com.br/
-status: up
-code: 200
-responseTime: 1097
-lastUpdated: 2026-04-24T05:56:08.304Z
+status: down
+code: 429
+responseTime: 541
+lastUpdated: 2026-04-24T14:20:38.628Z
 startTime: 2024-12-16T15:11:03.123Z
 generator: Upptime <https://github.com/upptime/upptime>
